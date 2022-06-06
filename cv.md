@@ -15,23 +15,25 @@ I was born in 1978 and I am from generation X. On my life path, I changed severa
 
 I've been into IT since I first saw a computer. I am constantly engaged in self-study, taking courses to improve my knowledge and skills. I study marketing and improve my English. I have a strategic mind. I am for optimization and automation. I have experience in creating training material (instructions, scripts, etc.) and training employees. I know how to find a common language and work with people. I take my work seriously and I am a perfectionist to some extent. I completely immerse myself in work, achieve my goals and stand up for the company where I work. I am fond of different sports, for healthy lifestyle, without bad habits.
 
-Now my goal is to take the course of the RSschool, learn to be a Front-end developer (possibly a full stack) in order to find a decent job or develop my own applications and integrations. I hope this will radically change my life and the life of my family for the better. I hope you appreciate my CV.
+Now my goal is to take the course of the RSSchool, learn to be a Front-end developer (possibly a full stack) in order to find a decent job or develop my own applications and integrations. I hope this will radically change my life and the life of my family for the better. I hope you appreciate my CV.
 
 ---
+
 ## Skills
 
-* HTML*
-* CSS*
-* JavaScript*
-* UX,UI*
-* VSCode, Github Desktop*
-* Gimp, Adobe Photoshop**
-* Adobe Premier, Sony Vegas**
+* HTML [^1]
+* CSS [^1]
+* JavaScript [^1]
+* UX [^1], UI [^1]
+* VSCode [^1], Github Desktop [^1]
+* Gimp [^2], Adobe Photoshop [^2]
+* Adobe Premier [^2], Sony Vegas [^2]
 
-*basic knowledge or no work experience  
-**- did not use all the functionality
+[^1]: basic knowledge or no work experience  
+[^2]: did not use all the functionality
 
 ---
+
 ## Code examples
 
 ```javascript
@@ -53,6 +55,7 @@ getRandomElement ();
 ```
 
 ---
+
 ## Education
 
 * Russian Institute of Management
@@ -67,6 +70,7 @@ getRandomElement ();
 * Many other courses and tutorials
 
 ---
+
 ## English
 
 A2 (some tests show B1)
