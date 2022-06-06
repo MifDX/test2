@@ -23,10 +23,10 @@ Now my goal is to take the course of the RSschool, learn to be a Front-end devel
 * HTML*
 * CSS*
 * JavaScript*
-* UX*,UI*
-* VSCode*, Github Desktop*
-* Gimp**, Adobe Photoshop**
-* Adobe Premier**, Sony Vegas**
+* UX,UI*
+* VSCode, Github Desktop*
+* Gimp, Adobe Photoshop**
+* Adobe Premier, Sony Vegas**
 
 *basic knowledge or no work experience  
 **- did not use all the functionality
@@ -56,7 +56,7 @@ getRandomElement ();
 ## Education
 
 * Russian Institute of Management
-* SoloLern courses: HTML, CSS, JS
+* SoloLearn courses: HTML, CSS, JS
 * HTMLbook.ru courses: HTML, CSS
 * Stepik courses: HTML, CSS, JS for beginners
 * Yandex.practicum: HTML, CSS, JavaScript introductory module
